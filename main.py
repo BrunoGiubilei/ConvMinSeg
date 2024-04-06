@@ -1,5 +1,6 @@
 import tkinter as tk
 from tkinter import messagebox
+import pyperclip
 
 # Função para converter minutos e segundos em segundos totais
 def converter_tempo():
@@ -9,6 +10,8 @@ def converter_tempo():
         seconds = int(entry_seconds.get())
         # Calcular total de segundos
         total_seconds = (minutes * 60) + seconds
+        # Copiar total de segundos para a área de transferência
+        pyperclip.copy(total_seconds)
         # Exibir o resultado
         label_result.config(text=f"{minutes} minutos e {seconds} segundos são {total_seconds} segundos.")
     except ValueError:
