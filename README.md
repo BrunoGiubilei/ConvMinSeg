@@ -24,7 +24,10 @@ Para executar o programa via terminal, você pode usar o seguinte comando:
 ```bash
 python main.py
 ```
-Para executar o programa através de um atalho adicionado na pasta de programas do menu iniciar, você pode criar um arquivo .vbs.
+Para executar o programa através de um atalho adicionado na pasta de programas do menu iniciar, você pode criar um  atalho do arquivo main.vbs dentro da pasta 
+```bash
+C:\Users\{seu_usuario}\AppData\Roaming\Microsoft\Windows\Start Menu\Programs
+```
 
 ## Criação do Setup.exe
 
@@ -39,20 +42,20 @@ Aqui está um exemplo básico de um script de instalação do Inno Setup:
 
 ```bash
 [Setup]
-AppName=Meu Programa
+AppName=ConvMinSeg
 AppVersion=1.0
-DefaultDirName={pf}\Meu Programa
+DefaultDirName={pf}\ConvMinSeg
 OutputDir=.
 OutputBaseFilename=setup
 Compression=lzma
 SolidCompression=yes
 
 [Files]
-Source: "dist\main.exe"; DestDir: "{app}"; Flags: ignoreversion
+Source: "C:\workspace\ConvMinSeg\dist\main.exe"; DestDir: "{app}"; Flags: ignoreversion
 
 [Icons]
-Name: "{group}\Meu Programa"; Filename: "{app}\main.exe"
-Name: "{commondesktop}\Meu Programa"; Filename: "{app}\main.exe"; Tasks: desktopicon
+Name: "{group}\ConvMinSeg"; Filename: "{app}\main.exe"
+Name: "{commondesktop}\ConvMinSeg"; Filename: "{app}\main.exe"; Tasks: desktopicon
 
 [Tasks]
 Name: "desktopicon"; Description: "Criar um ícone na área de trabalho"; GroupDescription: "Atalhos adicionais:"
