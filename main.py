@@ -20,6 +20,7 @@ def converter_tempo():
 # Criar a janela principal
 root = tk.Tk()
 root.title("Conversor MinSeg")
+root.iconbitmap("C:\workspace\ConvMinSeg\convMinSeg.ico")
 
 # Configurar o tamanho da janela
 root.geometry('300x200')
