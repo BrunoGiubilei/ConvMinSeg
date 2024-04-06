@@ -65,3 +65,11 @@ Name: "desktopicon"; Description: "Criar um ícone na área de trabalho"; GroupD
 
 ## Preview
 ![Preview de como será o aplicativo após instalado](https://github.com/BrunoGiubilei/ConvMinSeg/blob/main/preview.png)
+
+## Licença
+
+Este projeto está licenciado sob a Licença BSD de 3 cláusulas. As condições são as seguintes:
+
+1. Redistribuições do código-fonte devem manter o aviso de direitos autorais acima, esta lista de condições e a seguinte isenção de responsabilidade.
+2. Redistribuições em formato binário devem reproduzir o aviso de direitos autorais acima, esta lista de condições e a seguinte isenção de responsabilidade na documentação e/ou outros materiais fornecidos com a distribuição.
+3. Nem o nome da organização nem os nomes dos seus contribuidores podem ser usados para endossar ou promover produtos derivados deste software sem permissão prévia por escrito.
