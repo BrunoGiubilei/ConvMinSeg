@@ -12,6 +12,7 @@ Se você gostou deste projeto e gostaria de contribuir, você pode fazer uma doa
 ```bash
 brunogiubilei@gmail.com
 ```
+![QRCODE PIX](https://github.com/BrunoGiubilei/ConvMinSeg/blob/main/qrcode.png)
 
 # Recursos do Aplicativo
 
