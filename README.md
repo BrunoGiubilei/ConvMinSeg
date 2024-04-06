@@ -4,6 +4,15 @@
 
 ConvSegMin é um conversor Python de minutos e segundos para segundos.
 
+## Versão do Produto
+![versão atual do produto](https://github.com/BrunoGiubilei/ConvMinSeg/releases/tag/1.0.0)
+
+## Doação
+Se você gostou deste projeto e gostaria de contribuir, você pode fazer uma doação para a seguinte chave PIX:
+```bash
+09923426602
+```
+
 ## Instalação
 
 Para criar um arquivo .exe a partir deste projeto Python, você pode usar o PyInstaller. Aqui estão os passos básicos:
