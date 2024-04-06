@@ -10,7 +10,7 @@ https://github.com/BrunoGiubilei/ConvMinSeg/releases/tag/1.0.0
 ## Doação
 Se você gostou deste projeto e gostaria de contribuir, você pode fazer uma doação para a seguinte chave PIX:
 ```bash
-09923426602
+brunogiubilei@gmail.com
 ```
 
 # Recursos do Aplicativo
