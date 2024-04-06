@@ -85,10 +85,10 @@ Name: "{commondesktop}\ConvMinSeg"; Filename: "{app}\main.exe"; Tasks: desktopic
 Name: "desktopicon"; Description: "Criar um ícone na área de trabalho"; GroupDescription: "Atalhos adicionais:"
 ```
 
-## Preview
+# Preview
 ![Preview de como será o aplicativo após instalado](https://github.com/BrunoGiubilei/ConvMinSeg/blob/main/preview.png)
 
-## Licença
+# Licença
 
 Este projeto está licenciado sob a Licença BSD de 3 cláusulas. As condições são as seguintes:
 
