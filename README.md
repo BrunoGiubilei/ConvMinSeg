@@ -4,8 +4,8 @@
 
 ConvSegMin é um conversor Python de minutos e segundos para segundos.
 
-## Versão do Produto
-https://github.com/BrunoGiubilei/ConvMinSeg/releases/tag/1.0.0
+## Versão do Produto Atual 1.0.1
+https://github.com/BrunoGiubilei/ConvMinSeg/releases/tag/1.0.1
 
 ## Doação
 Se você gostou deste projeto e gostaria de contribuir, você pode fazer uma doação para a seguinte chave PIX:
