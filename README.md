@@ -73,3 +73,10 @@ Este projeto está licenciado sob a Licença BSD de 3 cláusulas. As condições
 1. Redistribuições do código-fonte devem manter o aviso de direitos autorais acima, esta lista de condições e a seguinte isenção de responsabilidade.
 2. Redistribuições em formato binário devem reproduzir o aviso de direitos autorais acima, esta lista de condições e a seguinte isenção de responsabilidade na documentação e/ou outros materiais fornecidos com a distribuição.
 3. Nem o nome da organização nem os nomes dos seus contribuidores podem ser usados para endossar ou promover produtos derivados deste software sem permissão prévia por escrito.
+
+## Proprietário
+Bruno Nicolini Giubilei
+
+## Contato
+- E-mail: brunogiubilei@gmail.com
+- Telefone: +5535997552662
