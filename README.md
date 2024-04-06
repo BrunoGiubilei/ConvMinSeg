@@ -13,6 +13,19 @@ Se você gostou deste projeto e gostaria de contribuir, você pode fazer uma doa
 09923426602
 ```
 
+# Recursos do Aplicativo
+
+Nesta seção, você encontrará uma lista de recursos que o aplicativo já contempla e os que estão programados para serem desenvolvidos.
+
+## Recursos Existentes
+
+- [x] Converte minutos e segundos para segundos
+
+## Recursos Planejados
+
+- [ ] Ao pressionar o botão 'Converter' o aplicativo irá copiar para a área de transferência o valor dos minutos totais convertidos
+- [ ] Melhorias na UI/UX adicionando uma camada HTML,JS,CSS a visão do aplicativo
+
 ## Instalação
 
 Para criar um arquivo .exe a partir deste projeto Python, você pode usar o PyInstaller. Aqui estão os passos básicos:
