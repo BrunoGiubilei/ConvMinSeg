@@ -1,6 +1,3 @@
-Claro, aqui está um exemplo de como você pode estruturar o arquivo README para o seu projeto ConvSegMin:
-
-```markdown
 # ConvSegMin
 
 ConvSegMin é um conversor Python de minutos e segundos para segundos.
@@ -13,6 +10,7 @@ Para criar um arquivo .exe a partir deste projeto Python, você pode usar o PyIn
 ```bash
 pip install pyinstaller
 ```
+
 2. Navegue até o diretório do script: Use o comando cd para navegar até o diretório que contém o script Python (main.py, no seu caso).
 3. Crie o arquivo .exe: Agora você pode usar o PyInstaller para criar um arquivo .exe do script. O comando a seguir cria um único arquivo .exe:
 ```bash
@@ -59,5 +57,3 @@ Name: "{commondesktop}\Meu Programa"; Filename: "{app}\main.exe"; Tasks: desktop
 [Tasks]
 Name: "desktopicon"; Description: "Criar um ícone na área de trabalho"; GroupDescription: "Atalhos adicionais:"
 ```
-```
-Espero que isso ajude! Se você tiver mais perguntas, sinta-se à vontade para perguntar.
