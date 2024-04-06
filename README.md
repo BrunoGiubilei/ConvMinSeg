@@ -26,6 +26,7 @@ Nesta seção, você encontrará uma lista de recursos que o aplicativo já cont
 
 - [ ] Ao pressionar o botão 'Converter' o aplicativo irá copiar para a área de transferência o valor dos minutos totais convertidos
 - [ ] Melhorias na UI/UX adicionando uma camada HTML,JS,CSS a visão do aplicativo
+- [ ] Criar versão mobile para Android utilizando o buildozer
 
 ## Instalação
 
