@@ -1,3 +1,5 @@
+![Conversor Minutos para Segundos em python](https://github.com/BrunoGiubilei/ConvMinSeg/blob/main/convMinSeg.png)
+
 # ConvSegMin
 
 ConvSegMin é um conversor Python de minutos e segundos para segundos.
